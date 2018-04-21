@@ -1,4 +1,4 @@
 {
-  "commandDescription": "Prints a greeting and your org id(s)!",
+  "commandDescription": "Star's rest client",
   "nameFlagDescription": "name to print"
 }
