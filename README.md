@@ -2,8 +2,6 @@ rest-explorer
 =============
 
 <!-- commands -->
-* `sfdx dtq:restg [FILE]`
-
 ## `sfdx dtq:rest`
 
 Executes Salesforce Authenticated Http requests from terminal
