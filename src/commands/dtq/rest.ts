@@ -14,7 +14,7 @@ export default class Rest extends SfdxCommand {
     `$ sfdx dtq:rest -u my-org --endpoint '/services/data/v20.0/query/?q=SELECT+name+from+Account'`
   ];
 
-  public static args = [{name: 'file'}];
+//  public static args = [{name: 'file'}];
 
   protected static flagsConfig = {
     // flag with a value (-n, --name=VALUE)
