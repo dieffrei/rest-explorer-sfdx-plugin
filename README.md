@@ -2,11 +2,11 @@ rest-explorer
 =============
 
 <!-- commands -->
-* [`rest-explorer hello:org [FILE]`](#rest-explorer-helloorg-file)
+* `sfdx dtq:restg [FILE]`
 
-## `rest-explorer hello:org [FILE]`
+## `sfdx dtq:rest`
 
-Prints a greeting and your org id(s)!
+Executes Salesforce Authenticated Http requests from terminal
 
 ```
 USAGE
